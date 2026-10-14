@@ -30,77 +30,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global Oncology Information Systems (OIS) and digital chemotherapy market is estimated at approximately **$5.7 billion to $10.3 billion**, projected to grow at a CAGR of **7.5%–8.5%**. The sector exhibits a **concentrated, oligopolistic core** among enterprise giants (such as Siemens Healthineers/Varian, Elekta, and Roche/Flatiron) that control core hospital radiation and medical oncology systems, complemented by **moderate fragmentation** across specialized ambulatory CDS plugins, regional EHRs, and dosing regimen tools.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[iQemo](https://www.iqemo.com/)**
-
-  Electronic chemotherapy prescribing system with integrated dose calculation, regimen templates, and clinical decision support. Designed for UK NHS and international oncology workflows.
-
-
-
-- **[Flatiron Assist](https://flatiron.com/)**
-
-  Clinical decision support integrated with OncoEMR. Provides evidence-based regimen recommendations, clinical trial matching, and real-world evidence insights.
-
-
-
-- **[ChemoCare](https://www.chemocare.com/)**
-
-  Chemotherapy regimen database and patient information resource maintained by the Cleveland Clinic. Provides drug profiles, regimen details, and side effect management guidance.
-
-
-
-- **[EpiSoft](https://www.episoft.com.au/)**
-
-  Oncology information system with chemotherapy prescribing, day unit management, and clinical documentation for Australian and New Zealand markets.
-
-
-
-- **[OncoEMR](https://flatiron.com/oncoemr/)**
-
-  Cloud-based oncology EHR from Flatiron Health. Features chemotherapy ordering, regimen management, clinical workflow optimization, and integration with real-world evidence.
-
-
-
-- **[CenseoRx](https://www.censeohealth.com/)**
-
-  Oncology clinical decision support platform with treatment pathways, prior authorization automation, and regimen analytics.
-
-
-
-- **[Varian ARIA](https://www.varian.com/products/software/aria-oncology-information-system)**
-
-  Comprehensive oncology information system integrating medical oncology, radiation oncology, and patient management. Features chemotherapy prescribing, scheduling, and treatment documentation.
-
-
-
-- **[Elekta MOSAIQ](https://www.elekta.com/products/software/mosaiq/)**
-
-  Oncology information system with chemotherapy management, workflow automation, and clinical documentation. Integrates with Elekta radiotherapy systems.
-
-
-
-- **[IntellidoseTxM](https://www.intellidose.com/)**
-
-  Chemotherapy dose management and analytics platform. Focuses on dose accuracy, protocol compliance, and cost management.
-
-
-
-- **[CureMD](https://www.curemd.com/)**
-
-  Cloud-based EHR with oncology-specific modules including chemotherapy management, patient portals, and billing.
+| Platform | Company / Parent | Valuation / Revenue (Size Indicator) | Description & Focus | Starting Pricing | Free Tier / Trial Limits |
+|:---|:---|:---|:---|:---|:---|
+| **[IntellidoseTxM](https://www.intellidose.com/)** | Cencora (AmerisourceBergen) | ~$293.96B annual revenue | Chemotherapy dose management and infusion analytics platform optimizing protocol compliance, order tracking, and oncology drug cost control. | Contact vendor for custom quote (Enterprise pricing structured per infusion chair / practice site; IntrinsiQ acquired for $35M) | No free tier or self-service free trial; access requires a scheduled clinical demo and guided implementation. |
+| **[OncoEMR](https://flatiron.com/oncoemr/)** | Flatiron Health (Roche Group) | $1.9B acquisition valuation | Cloud-based oncology-specific EHR supporting chemotherapy order entry, regimen management, clinical workflows, and real-world evidence. | Starts at ~$1,300–$1,400 per provider/month (plus one-time setup/implementation fees) | No free tier or self-service free trial; access provided via scheduled institutional live demonstrations. |
+| **[Flatiron Assist](https://flatiron.com/)** | Flatiron Health (Roche Group) | $1.9B acquisition valuation | Clinical decision support platform embedded in OncoEMR offering NCCN-aligned chemotherapy regimen recommendations and trial matching. | Add-on module licensing to OncoEMR (integrated contract, starting per provider/clinic baseline) | No free tier or self-service free trial; demo access and workflow evaluation provided via Flatiron sales team. |
+| **[Varian ARIA](https://www.varian.com/products/software/aria-oncology-information-system)** | Siemens Healthineers | $16.4B acquisition valuation (~$24B parent revenue) | Enterprise oncology information system unifying medical oncology, chemotherapy prescribing, and radiation therapy workflows. | Software modules start around ~$75,000 baseline deployment fee (scales based on concurrent user licenses and linac connectors) | No free tier or public free trial; access provided via scheduled product consultations and sandbox demonstrations. |
+| **[Elekta MOSAIQ](https://www.elekta.com/products/software/mosaiq/)** | Elekta AB | ~$1.7B annual revenue (~SEK 18B) | Comprehensive oncology EHR & information system managing medical oncology, chemotherapy orders, pharmacy verification, and radiation. | Enterprise software licensing starting per server/database instance + annual maintenance (quote-based) | No free tier or public free trial; vendor-guided workflow demonstrations available upon request. |
+| **[CenseoRx](https://www.censeohealth.com/)** | Signify Health (CVS Health) | $8.0B acquisition valuation by CVS | Clinical decision support platform with oncology treatment pathways, regimen analytics, and prior authorization management. | Enterprise contract pricing per covered lives / member population | No free tier or self-service free trial; access restricted to health plan and provider enterprise demonstrations. |
+| **[ChemoCare](https://www.chemocare.com/)** | Cleveland Clinic Cancer Center | ~$14.5B annual system revenue | Comprehensive chemotherapy drug profiles, standard dosing references, regimen details, and adverse effect management database. | $0 (100% free open public access resource funded by Cleveland Clinic Cancer Center) | Free forever for all users globally with unlimited web queries and regimen searches. |
+| **[CureMD](https://www.curemd.com/)** | CureMD Healthcare | ~$50M–$100M estimated revenue | Cloud-based oncology EHR offering chemotherapy regimen management, clinical charting, patient portals, and billing/RCM. | Starts at $295 per provider/month (EHR only) or $395 per provider/month (All-in-One EHR + Practice Management) | No free tier or free trial; access provided via scheduled live product walk-through and guided demo. |
+| **[EpiSoft](https://www.episoft.com.au/)** | EpiSoft Pty Ltd | ~$10M–$20M estimated revenue | Specialty oncology information system featuring chemotherapy prescribing, chair management, and protocol tracking for ANZ markets. | Utilization-based SaaS priced per billable treatment visit (implementation budgeted around 3-year license fee) | No free tier or public trial; prospective clinics receive guided product sandbox trials upon consultation. |
+| **[iQemo](https://www.iqemo.com/)** | iQ HealthTech (Altera Digital Health) | ~$5M–$15M estimated revenue | Electronic chemotherapy and SACT prescribing system with regimen templates and dose calculation designed for NHS Trusts. | Cloud SaaS subscription priced according to SACT patient volume / trust size (available via UK Crown Commercial G-Cloud framework) | No free tier or public trial; access is restricted to NHS/hospital staff via scheduled institutional pilot demos. |
 
 
 
