@@ -8,7 +8,7 @@
 *Focused on Chemotherapy Prescribing, AI Dose Calculation, Regimen Protocols & Oncology Information Systems (OIS)*  
 
 [![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Chemotherapy?style=social)](https://github.com/ishandutta2007/Awesome-Digital-Chemotherapy/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Chemotherapy?style=social)](https://github.com/ishandutta2007/Awesome-Digital-Chemotherapy/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Digital-Chemotherapy/pulls)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -72,58 +72,58 @@ The industry is defined by a **concentrated, oligopolistic core** among enterpri
 
 *Active open-source repositories and clinical software sorted descending by GitHub stargazers count.*
 
-1. **[OHIF/Viewers](https://github.com/OHIF/Viewers)** [![GitHub stars](https://img.shields.io/github/stars/OHIF/Viewers?style=social&color=white)](https://github.com/OHIF/Viewers/stargazers)  
+1. **[OHIF/Viewers](https://github.com/OHIF/Viewers)** [![GitHub_Stars](https://img.shields.io/github/stars/OHIF/Viewers?style=social&color=white)](https://github.com/OHIF/Viewers/stargazers)  
    Open-source zero-footprint web imaging platform and medical viewer (MIT license). Includes a specialized **Lesion Tracker** extension for oncology trials (RECIST 1.1 criteria), DICOM-SR measurements, and oncology imaging review workflows integrated with PACS and clinical trial data.
 
-2. **[openmrs/openmrs-core](https://github.com/openmrs/openmrs-core)** [![GitHub stars](https://img.shields.io/github/stars/openmrs/openmrs-core?style=social&color=white)](https://github.com/openmrs/openmrs-core/stargazers)  
+2. **[openmrs/openmrs-core](https://github.com/openmrs/openmrs-core)** [![GitHub_Stars](https://img.shields.io/github/stars/openmrs/openmrs-core?style=social&color=white)](https://github.com/openmrs/openmrs-core/stargazers)  
    Core electronic medical record platform (MPL-2.0) powering oncology care delivery across low- and middle-income countries (LMICs). Hosts specialized oncology extensions for chemotherapy order documentation, cancer patient registries, and longitudinal follow-up tracking.
 
-3. **[cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)** [![GitHub stars](https://img.shields.io/github/stars/cBioPortal/cbioportal?style=social&color=white)](https://github.com/cBioPortal/cbioportal/stargazers)  
+3. **[cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)** [![GitHub_Stars](https://img.shields.io/github/stars/cBioPortal/cbioportal?style=social&color=white)](https://github.com/cBioPortal/cbioportal/stargazers)  
    Open-access cancer genomics and clinical data analysis system (AGPLv3) developed by Memorial Sloan Kettering Cancer Center. Facilitates the integration of molecular oncology profiles with chemotherapy treatment outcomes and survival data.
 
-4. **[nf-core/sarek](https://github.com/nf-core/sarek)** [![GitHub stars](https://img.shields.io/github/stars/nf-core/sarek?style=social&color=white)](https://github.com/nf-core/sarek/stargazers)  
+4. **[nf-core/sarek](https://github.com/nf-core/sarek)** [![GitHub_Stars](https://img.shields.io/github/stars/nf-core/sarek?style=social&color=white)](https://github.com/nf-core/sarek/stargazers)  
    Comprehensive Nextflow analysis pipeline (MIT license) for germline and somatic cancer variant detection. Serves as essential computational infrastructure for precision chemotherapy and targeted oncological therapies.
 
-5. **[OpenClinica/OpenClinica](https://github.com/OpenClinica/OpenClinica)** [![GitHub stars](https://img.shields.io/github/stars/OpenClinica/OpenClinica?style=social&color=white)](https://github.com/OpenClinica/OpenClinica/stargazers)  
+5. **[OpenClinica/OpenClinica](https://github.com/OpenClinica/OpenClinica)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenClinica/OpenClinica?style=social&color=white)](https://github.com/OpenClinica/OpenClinica/stargazers)  
    Community open-source electronic data capture (EDC) and clinical data management platform (LGPL). Widely deployed for oncology clinical trials, protocol deviation tracking, and chemotherapy safety monitoring.
 
-6. **[dcm4che/dcm4chee-arc-light](https://github.com/dcm4che/dcm4chee-arc-light)** [![GitHub stars](https://img.shields.io/github/stars/dcm4che/dcm4chee-arc-light?style=social&color=white)](https://github.com/dcm4che/dcm4chee-arc-light/stargazers)  
+6. **[dcm4che/dcm4chee-arc-light](https://github.com/dcm4che/dcm4chee-arc-light)** [![GitHub_Stars](https://img.shields.io/github/stars/dcm4che/dcm4chee-arc-light?style=social&color=white)](https://github.com/dcm4che/dcm4chee-arc-light/stargazers)  
    Next-generation DICOM archive and clinical image manager (LGPL). Provides the image management and DICOM RT storage layer required to link radiation oncology and chemotherapy treatment monitoring.
 
-7. **[e0404/matRad](https://github.com/e0404/matRad)** [![GitHub stars](https://img.shields.io/github/stars/e0404/matRad?style=social&color=white)](https://github.com/e0404/matRad/stargazers)  
+7. **[e0404/matRad](https://github.com/e0404/matRad)** [![GitHub_Stars](https://img.shields.io/github/stars/e0404/matRad?style=social&color=white)](https://github.com/e0404/matRad/stargazers)  
    Open-source radiation treatment planning system in MATLAB/GNU Octave (GPLv3). Features Monte Carlo dose calculation, biological optimization, multimodality planning, and DICOM-RT import/export funded by the German Cancer Aid (DKH).
 
-8. **[bastula/dicompyler](https://github.com/bastula/dicompyler)** [![GitHub stars](https://img.shields.io/github/stars/bastula/dicompyler?style=social&color=white)](https://github.com/bastula/dicompyler/stargazers)  
+8. **[bastula/dicompyler](https://github.com/bastula/dicompyler)** [![GitHub_Stars](https://img.shields.io/github/stars/bastula/dicompyler?style=social&color=white)](https://github.com/bastula/dicompyler/stargazers)  
    Extensible radiation therapy research platform and viewer for DICOM and DICOM-RT (BSD license). Features dose-volume histogram (DVH) analysis, 2D/3D slice viewing, and structure set parsing.
 
-9. **[judegomila/OnCo](https://github.com/judegomila/OnCo)** [![GitHub stars](https://img.shields.io/github/stars/judegomila/OnCo?style=social&color=white)](https://github.com/judegomila/OnCo/stargazers)  
+9. **[judegomila/OnCo](https://github.com/judegomila/OnCo)** [![GitHub_Stars](https://img.shields.io/github/stars/judegomila/OnCo?style=social&color=white)](https://github.com/judegomila/OnCo/stargazers)  
    Open-source cancer knowledge graph and API indexing therapies, molecular targets, clinical trials, and oncology treatments into a unified searchable platform with CLI and MCP server support.
 
-10. **[cutright/DVH-Analytics](https://github.com/cutright/DVH-Analytics)** [![GitHub stars](https://img.shields.io/github/stars/cutright/DVH-Analytics?style=social&color=white)](https://github.com/cutright/DVH-Analytics/stargazers)  
+10. **[cutright/DVH-Analytics](https://github.com/cutright/DVH-Analytics)** [![GitHub_Stars](https://img.shields.io/github/stars/cutright/DVH-Analytics?style=social&color=white)](https://github.com/cutright/DVH-Analytics/stargazers)  
     Open-source Python and SQLite application for radiation oncology and chemotherapy-adjacent clinical analytics, dose-volume histogram database queries, and statistical modeling.
 
-11. **[qatrackplus/qatrackplus](https://github.com/qatrackplus/qatrackplus)** [![GitHub stars](https://img.shields.io/github/stars/qatrackplus/qatrackplus?style=social&color=white)](https://github.com/qatrackplus/qatrackplus/stargazers)  
+11. **[qatrackplus/qatrackplus](https://github.com/qatrackplus/qatrackplus)** [![GitHub_Stars](https://img.shields.io/github/stars/qatrackplus/qatrackplus?style=social&color=white)](https://github.com/qatrackplus/qatrackplus/stargazers)  
     Configurable, free, and open-source (MIT/Apache-2.0) web application for quality assurance (QA) and QC management in radiation therapy and oncology clinics. Actively maintained by the Ottawa Hospital Cancer Centre.
 
-12. **[OHDSI/OncologyWG](https://github.com/OHDSI/OncologyWG)** [![GitHub stars](https://img.shields.io/github/stars/OHDSI/OncologyWG?style=social&color=white)](https://github.com/OHDSI/OncologyWG/stargazers)  
+12. **[OHDSI/OncologyWG](https://github.com/OHDSI/OncologyWG)** [![GitHub_Stars](https://img.shields.io/github/stars/OHDSI/OncologyWG?style=social&color=white)](https://github.com/OHDSI/OncologyWG/stargazers)  
     Open Health Data Sciences and Informatics (OHDSI) Oncology Working Group repository standardizing cancer treatment representation, chemotherapy regimen mapping, and OMOP CDM oncology extensions.
 
-13. **[immortal71/openoncology](https://github.com/immortal71/openoncology)** [![GitHub stars](https://img.shields.io/github/stars/immortal71/openoncology?style=social&color=white)](https://github.com/immortal71/openoncology/stargazers)  
+13. **[immortal71/openoncology](https://github.com/immortal71/openoncology)** [![GitHub_Stars](https://img.shields.io/github/stars/immortal71/openoncology?style=social&color=white)](https://github.com/immortal71/openoncology/stargazers)  
     Open-source precision oncology platform that ranks FDA-approved and drug-repurposing candidates from a patient's variant profile using OncoKB, AlphaMissense, OpenTargets, and ChEMBL evidence.
 
-14. **[openmrs/openmrs-module-oncology](https://github.com/openmrs/openmrs-module-oncology)** [![GitHub stars](https://img.shields.io/github/stars/openmrs/openmrs-module-oncology?style=social&color=white)](https://github.com/openmrs/openmrs-module-oncology/stargazers)  
+14. **[openmrs/openmrs-module-oncology](https://github.com/openmrs/openmrs-module-oncology)** [![GitHub_Stars](https://img.shields.io/github/stars/openmrs/openmrs-module-oncology?style=social&color=white)](https://github.com/openmrs/openmrs-module-oncology/stargazers)  
     Specialized chemotherapy ordering, regimen prescription, and cancer documentation module developed within OpenMRS for oncology teams in resource-limited environments.
 
-15. **[VHAINNOVATIONS/COMS-PROTO](https://github.com/VHAINNOVATIONS/COMS-PROTO)** [![GitHub stars](https://img.shields.io/github/stars/VHAINNOVATIONS/COMS-PROTO?style=social&color=white)](https://github.com/VHAINNOVATIONS/COMS-PROTO/stargazers)  
+15. **[VHAINNOVATIONS/COMS-PROTO](https://github.com/VHAINNOVATIONS/COMS-PROTO)** [![GitHub_Stars](https://img.shields.io/github/stars/VHAINNOVATIONS/COMS-PROTO?style=social&color=white)](https://github.com/VHAINNOVATIONS/COMS-PROTO/stargazers)  
     Chemotherapy Ordering Management System (COMS) prototype developed by Veterans Health Administration innovations—web-based clinical tool for regimen preparation, order checking, and treatment documentation.
 
-16. **[OpenTPS/examples](https://github.com/OpenTPS/examples)** [![GitHub stars](https://img.shields.io/github/stars/OpenTPS/examples?style=social&color=white)](https://github.com/OpenTPS/examples/stargazers)  
+16. **[OpenTPS/examples](https://github.com/OpenTPS/examples)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenTPS/examples?style=social&color=white)](https://github.com/OpenTPS/examples/stargazers)  
     Official examples for OpenTPS, an open-source treatment planning system supporting Monte Carlo dose calculations (MCsquare), multi-criteria optimization, and proton/photon radiotherapy workflows.
 
-17. **[Phillippus/ChemoThon](https://github.com/Phillippus/ChemoThon)** [![GitHub stars](https://img.shields.io/github/stars/Phillippus/ChemoThon?style=social&color=white)](https://github.com/Phillippus/ChemoThon/stargazers)  
+17. **[Phillippus/ChemoThon](https://github.com/Phillippus/ChemoThon)** [![GitHub_Stars](https://img.shields.io/github/stars/Phillippus/ChemoThon?style=social&color=white)](https://github.com/Phillippus/ChemoThon/stargazers)  
     AI-assisted chemotherapy prescribing platform evolved into a Streamlit web application. Features **67 curated regimens** across breast, colorectal, gastrointestinal, gynecological, and immunotherapy cancers with automated BSA/weight-based dose calculations.
 
-18. **[Caisis/Caisis](https://github.com/Caisis/Caisis)** [![GitHub stars](https://img.shields.io/github/stars/Caisis/Caisis?style=social&color=white)](https://github.com/Caisis/Caisis/stargazers)  
+18. **[Caisis/Caisis](https://github.com/Caisis/Caisis)** [![GitHub_Stars](https://img.shields.io/github/stars/Caisis/Caisis?style=social&color=white)](https://github.com/Caisis/Caisis/stargazers)  
     Open-source cancer data management system (GPL) originally developed at Memorial Sloan-Kettering Cancer Center. Features patient history capture, tumor banking, clinical trials protocol management, and longitudinal oncology tracking.
 
 19. **[Unified Oncology Treatment Database](https://zenodo.org/records/22181331)** [![Status](https://img.shields.io/badge/Zenodo-Open%20Access-blue?style=social&color=white)](https://zenodo.org/records/22181331)  
@@ -156,7 +156,7 @@ Contributions from medical oncologists, clinical informaticists, pharmacists, an
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-oncology-tool`
 3. 📝 **Add entries following the established format**:
    - Platform / Repository name with official URL
-   - GitHub stars social badge linking directly to stargazers
+   - GitHub_Stars social badge linking directly to stargazers
    - 1–2 factual sentences describing clinical utility, license, and regimen handling
 4. 🚀 **Submit a Pull Request** with clear release context
 
