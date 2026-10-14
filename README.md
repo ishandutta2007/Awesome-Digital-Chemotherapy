@@ -1,46 +1,57 @@
-# Awesome-Digital-Chemotherapy
+<div align="center">
 
-## Top Digital Chemotherapy Ecosystem
+<img src="./assets/banner.svg" alt="Awesome Digital Chemotherapy Banner" width="100%" />
 
+# 💊 Awesome Digital Chemotherapy 🎗️
 
+**Curated List of Leading SaaS Products & Open-Source Oncology Software Ecosystem**  
+*Focused on Chemotherapy Prescribing, AI Dose Calculation, Regimen Protocols & Oncology Information Systems (OIS)*  
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-
-*Focused on Chemotherapy Prescribing, Dose Calculation & Oncology Data Management*  
+[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Chemotherapy?style=social)](https://github.com/ishandutta2007/Awesome-Digital-Chemotherapy/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Digital-Chemotherapy/pulls)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **Last updated: March 2026**
 
+</div>
 
+---
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Digital Chemotherapy**. These tools enable oncology teams to prescribe, calculate, and document chemotherapy regimens safely and consistently—reducing medication errors and standardizing care across clinical and low-resource settings.
+## 📖 Overview & SEO Summary
 
+Welcome to the definitive directory for **Digital Chemotherapy**, **Clinical Oncology Informatics**, and **Cancer Treatment Technologies**. This repository tracks notable enterprise **SaaS platforms**, clinical decision support (CDS) engines, and **open-source GitHub projects** designed to help oncologists, medical physicists, oncology pharmacists, and software developers:
+- 💉 **Safely prescribe and order Systemic Anti-Cancer Therapy (SACT)**
+- 📐 **Perform rigorous chemotherapy dose calculations** (BSA, Calvert AUC, CrCl, carboplatin/cisplatin dosing adjustments)
+- 📋 **Standardize oncology treatment regimens** and protocol compliance (NCCN, ASCO, HemOnc guidelines)
+- 🏥 **Deploy and integrate specialized Oncology EHRs & Oncology Information Systems (OIS)**
+- 📉 **Eliminate clinical medication errors** across hospital health systems and resource-constrained cancer clinics
 
+---
 
-**Examples** include iQemo, Flatiron Assist, ChemoCare, EpiSoft, OncoEMR, CenseoRx, Varian ARIA, Elekta MOSAIQ, IntellidoseTxM, and CureMD (the category leaders).
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🏗️ Architectural Frameworks for Custom Platforms](#️-architectural-frameworks-for-custom-platforms)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⭐ Star History](#-star-history)
+- [⚠️ Disclaimer & Clinical Safety](#️-disclaimer--clinical-safety)
 
+---
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, AI-assisted prescribing, and open oncology data management—ideal for oncologists, clinical informaticists, and developers seeking transparent, vendor-independent chemotherapy platforms.
+## 📊 Sector Overview & Market Dynamics
 
+The global **Oncology Information Systems (OIS)** and digital chemotherapy prescribing market is estimated at approximately **$5.7 billion to $10.3 billion**, accelerating at a compound annual growth rate (**CAGR of 7.5%–8.5%**). 
 
+The industry is defined by a **concentrated, oligopolistic core** among enterprise radiation and hospital-wide healthcare tech titans (notably **Siemens Healthineers / Varian ARIA**, **Elekta MOSAIQ**, and **Roche / Flatiron Health**). Concurrently, the ambulatory and outpatient ecosystem exhibits **moderate fragmentation**, creating substantial demand for modular clinical decision support plugins, standardized regimen knowledge graphs (e.g., HemOnc), and interoperable open-source dose verification tools.
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+---
 
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
-
-The global Oncology Information Systems (OIS) and digital chemotherapy market is estimated at approximately **$5.7 billion to $10.3 billion**, projected to grow at a CAGR of **7.5%–8.5%**. The sector exhibits a **concentrated, oligopolistic core** among enterprise giants (such as Siemens Healthineers/Varian, Elekta, and Roche/Flatiron) that control core hospital radiation and medical oncology systems, complemented by **moderate fragmentation** across specialized ambulatory CDS plugins, regional EHRs, and dosing regimen tools.
-
-## SaaS/Hosted Platforms
+## ☁️ SaaS & Hosted Platforms
 
 | Platform | Company / Parent | Valuation / Revenue (Size Indicator) | Description & Focus | Starting Pricing | Free Tier / Trial Limits |
 |:---|:---|:---|:---|:---|:---|
@@ -55,118 +66,134 @@ The global Oncology Information Systems (OIS) and digital chemotherapy market is
 | **[EpiSoft](https://www.episoft.com.au/)** | EpiSoft Pty Ltd | ~$10M–$20M estimated revenue | Specialty oncology information system featuring chemotherapy prescribing, chair management, and protocol tracking for ANZ markets. | Utilization-based SaaS priced per billable treatment visit (implementation budgeted around 3-year license fee) | No free tier or public trial; prospective clinics receive guided product sandbox trials upon consultation. |
 | **[iQemo](https://www.iqemo.com/)** | iQ HealthTech (Altera Digital Health) | ~$5M–$15M estimated revenue | Electronic chemotherapy and SACT prescribing system with regimen templates and dose calculation designed for NHS Trusts. | Cloud SaaS subscription priced according to SACT patient volume / trust size (available via UK Crown Commercial G-Cloud framework) | No free tier or public trial; access is restricted to NHS/hospital staff via scheduled institutional pilot demos. |
 
+---
 
+## 🔓 Open-Source GitHub Projects
 
-## Open-Source GitHub Projects
+*Active open-source repositories and clinical software sorted descending by GitHub stargazers count.*
 
+1. **[OHIF/Viewers](https://github.com/OHIF/Viewers)** [![GitHub stars](https://img.shields.io/github/stars/OHIF/Viewers?style=social&color=white)](https://github.com/OHIF/Viewers/stargazers)  
+   Open-source zero-footprint web imaging platform and medical viewer (MIT license). Includes a specialized **Lesion Tracker** extension for oncology trials (RECIST 1.1 criteria), DICOM-SR measurements, and oncology imaging review workflows integrated with PACS and clinical trial data.
 
+2. **[openmrs/openmrs-core](https://github.com/openmrs/openmrs-core)** [![GitHub stars](https://img.shields.io/github/stars/openmrs/openmrs-core?style=social&color=white)](https://github.com/openmrs/openmrs-core/stargazers)  
+   Core electronic medical record platform (MPL-2.0) powering oncology care delivery across low- and middle-income countries (LMICs). Hosts specialized oncology extensions for chemotherapy order documentation, cancer patient registries, and longitudinal follow-up tracking.
 
-- **[ChemoThon 3.0](https://www.sciencedirect.com/science/article/pii/S0923753425025736)**  
+3. **[cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)** [![GitHub stars](https://img.shields.io/github/stars/cBioPortal/cbioportal?style=social&color=white)](https://github.com/cBioPortal/cbioportal/stargazers)  
+   Open-access cancer genomics and clinical data analysis system (AGPLv3) developed by Memorial Sloan Kettering Cancer Center. Facilitates the integration of molecular oncology profiles with chemotherapy treatment outcomes and survival data.
 
-  Open-source, AI-assisted chemotherapy prescribing platform for clinical and educational use (license varies). **The most directly applicable open-source chemotherapy prescribing tool available.** Evolved from a Python script to a full browser-based web application using Streamlit, with development assisted by ChatGPT v4/v4o. **67 curated regimens** across breast (12), colorectal (14), gastrointestinal (16), gynecological (6), and immunotherapy (19) cancers. Supports classical cytotoxic agents, targeted therapies, and immunotherapy with appropriate dose adjustments. Follows standard dose-calculation methods (BSA, weight, or fixed dosing) and emulates real-world prescribing steps. Cancer-type-based regimen selection with automated dose generation. **Any oncologist can adapt or extend the platform for local use**—open-source structure lowers technical barriers to localized regimen support. English version freely accessible .
+4. **[nf-core/sarek](https://github.com/nf-core/sarek)** [![GitHub stars](https://img.shields.io/github/stars/nf-core/sarek?style=social&color=white)](https://github.com/nf-core/sarek/stargazers)  
+   Comprehensive Nextflow analysis pipeline (MIT license) for germline and somatic cancer variant detection. Serves as essential computational infrastructure for precision chemotherapy and targeted oncological therapies.
 
+5. **[OpenClinica/OpenClinica](https://github.com/OpenClinica/OpenClinica)** [![GitHub stars](https://img.shields.io/github/stars/OpenClinica/OpenClinica?style=social&color=white)](https://github.com/OpenClinica/OpenClinica/stargazers)  
+   Community open-source electronic data capture (EDC) and clinical data management platform (LGPL). Widely deployed for oncology clinical trials, protocol deviation tracking, and chemotherapy safety monitoring.
 
+6. **[dcm4che/dcm4chee-arc-light](https://github.com/dcm4che/dcm4chee-arc-light)** [![GitHub stars](https://img.shields.io/github/stars/dcm4che/dcm4chee-arc-light?style=social&color=white)](https://github.com/dcm4che/dcm4chee-arc-light/stargazers)  
+   Next-generation DICOM archive and clinical image manager (LGPL). Provides the image management and DICOM RT storage layer required to link radiation oncology and chemotherapy treatment monitoring.
 
-- **[Caisis](https://github.com/Caisis/Caisis)**  
+7. **[e0404/matRad](https://github.com/e0404/matRad)** [![GitHub stars](https://img.shields.io/github/stars/e0404/matRad?style=social&color=white)](https://github.com/e0404/matRad/stargazers)  
+   Open-source radiation treatment planning system in MATLAB/GNU Octave (GPLv3). Features Monte Carlo dose calculation, biological optimization, multimodality planning, and DICOM-RT import/export funded by the German Cancer Aid (DKH).
 
-  Open-source cancer data management system (GPL) designed to bridge the gap between research and clinical practice. **The most mature open-source oncology data platform**, started in 2002 at Memorial Sloan-Kettering Cancer Center to replace urology department database, later expanded to all cancer types. Features patient history capture, clinical data management, tumor banking, protocol management, project tracking, and patient education modules. Web-based with ASP.NET/C# and Microsoft SQL Server. HIPAA-compliant security designed for deployment outside institutional firewalls. **Used by institutions worldwide** with significant improvements in publishing higher quality research in less time. Version 6.0 with enhanced e-forms. **Zero software investment** with access to source code and community collaboration .
+8. **[bastula/dicompyler](https://github.com/bastula/dicompyler)** [![GitHub stars](https://img.shields.io/github/stars/bastula/dicompyler?style=social&color=white)](https://github.com/bastula/dicompyler/stargazers)  
+   Extensible radiation therapy research platform and viewer for DICOM and DICOM-RT (BSD license). Features dose-volume histogram (DVH) analysis, 2D/3D slice viewing, and structure set parsing.
 
+9. **[judegomila/OnCo](https://github.com/judegomila/OnCo)** [![GitHub stars](https://img.shields.io/github/stars/judegomila/OnCo?style=social&color=white)](https://github.com/judegomila/OnCo/stargazers)  
+   Open-source cancer knowledge graph and API indexing therapies, molecular targets, clinical trials, and oncology treatments into a unified searchable platform with CLI and MCP server support.
 
+10. **[cutright/DVH-Analytics](https://github.com/cutright/DVH-Analytics)** [![GitHub stars](https://img.shields.io/github/stars/cutright/DVH-Analytics?style=social&color=white)](https://github.com/cutright/DVH-Analytics/stargazers)  
+    Open-source Python and SQLite application for radiation oncology and chemotherapy-adjacent clinical analytics, dose-volume histogram database queries, and statistical modeling.
 
-- **[OpenMRS Chemotherapy Module](https://pubmed.ncbi.nlm.nih.gov/31438001/)**  
+11. **[qatrackplus/qatrackplus](https://github.com/qatrackplus/qatrackplus)** [![GitHub stars](https://img.shields.io/github/stars/qatrackplus/qatrackplus?style=social&color=white)](https://github.com/qatrackplus/qatrackplus/stargazers)  
+    Configurable, free, and open-source (MIT/Apache-2.0) web application for quality assurance (QA) and QC management in radiation therapy and oncology clinics. Actively maintained by the Ottawa Hospital Cancer Centre.
 
-  Open-source oncology EMR functionality developed within OpenMRS for low-resource settings (Mozilla Public License). Work-in-progress from 2019 describing chemotherapy prescription and documentation functionality developed with cancer care providers from low- and middle-income countries (LMICs). Followed rapid application development approach to elicit and prioritize requirements. **Designed for safe and standardized cancer care in resource-constrained environments** where commercial oncology systems are unaffordable. Integrates with OpenMRS platform already deployed in many LMIC health facilities .
+12. **[OHDSI/OncologyWG](https://github.com/OHDSI/OncologyWG)** [![GitHub stars](https://img.shields.io/github/stars/OHDSI/OncologyWG?style=social&color=white)](https://github.com/OHDSI/OncologyWG/stargazers)  
+    Open Health Data Sciences and Informatics (OHDSI) Oncology Working Group repository standardizing cancer treatment representation, chemotherapy regimen mapping, and OMOP CDM oncology extensions.
 
+13. **[immortal71/openoncology](https://github.com/immortal71/openoncology)** [![GitHub stars](https://img.shields.io/github/stars/immortal71/openoncology?style=social&color=white)](https://github.com/immortal71/openoncology/stargazers)  
+    Open-source precision oncology platform that ranks FDA-approved and drug-repurposing candidates from a patient's variant profile using OncoKB, AlphaMissense, OpenTargets, and ChEMBL evidence.
 
+14. **[openmrs/openmrs-module-oncology](https://github.com/openmrs/openmrs-module-oncology)** [![GitHub stars](https://img.shields.io/github/stars/openmrs/openmrs-module-oncology?style=social&color=white)](https://github.com/openmrs/openmrs-module-oncology/stargazers)  
+    Specialized chemotherapy ordering, regimen prescription, and cancer documentation module developed within OpenMRS for oncology teams in resource-limited environments.
 
-- **[QATrack+](https://github.com/qatrackplus/qatrack)**  
+15. **[VHAINNOVATIONS/COMS-PROTO](https://github.com/VHAINNOVATIONS/COMS-PROTO)** [![GitHub stars](https://img.shields.io/github/stars/VHAINNOVATIONS/COMS-PROTO?style=social&color=white)](https://github.com/VHAINNOVATIONS/COMS-PROTO/stargazers)  
+    Chemotherapy Ordering Management System (COMS) prototype developed by Veterans Health Administration innovations—web-based clinical tool for regimen preparation, order checking, and treatment documentation.
 
-  Fully configurable, free, and open-source (MIT/Apache-2.0) web application for managing QA data for radiation therapy and medical imaging equipment. **The most actively maintained open-source medical physics QA platform.** Features QA/QC tracking, break-fix/preventative maintenance logging, and full quality management for radiation therapy facilities. Django-based with 3,117 commits and active community support. Goal: provide a tool any site can rely upon without vendor lock-in. Funded by Ottawa Hospital Cancer Centre and Canadian Nuclear Safety Commission. **Critical infrastructure for chemotherapy-adjacent quality assurance** .
+16. **[OpenTPS/examples](https://github.com/OpenTPS/examples)** [![GitHub stars](https://img.shields.io/github/stars/OpenTPS/examples?style=social&color=white)](https://github.com/OpenTPS/examples/stargazers)  
+    Official examples for OpenTPS, an open-source treatment planning system supporting Monte Carlo dose calculations (MCsquare), multi-criteria optimization, and proton/photon radiotherapy workflows.
 
+17. **[Phillippus/ChemoThon](https://github.com/Phillippus/ChemoThon)** [![GitHub stars](https://img.shields.io/github/stars/Phillippus/ChemoThon?style=social&color=white)](https://github.com/Phillippus/ChemoThon/stargazers)  
+    AI-assisted chemotherapy prescribing platform evolved into a Streamlit web application. Features **67 curated regimens** across breast, colorectal, gastrointestinal, gynecological, and immunotherapy cancers with automated BSA/weight-based dose calculations.
 
+18. **[Caisis/Caisis](https://github.com/Caisis/Caisis)** [![GitHub stars](https://img.shields.io/github/stars/Caisis/Caisis?style=social&color=white)](https://github.com/Caisis/Caisis/stargazers)  
+    Open-source cancer data management system (GPL) originally developed at Memorial Sloan-Kettering Cancer Center. Features patient history capture, tumor banking, clinical trials protocol management, and longitudinal oncology tracking.
 
-- **[Unified Oncology Treatment Database](https://zenodo.org/records/22181331)**  
+19. **[Unified Oncology Treatment Database](https://zenodo.org/records/22181331)** [![Status](https://img.shields.io/badge/Zenodo-Open%20Access-blue?style=social&color=white)](https://zenodo.org/records/22181331)  
+    Multisource harmonized database from Oak Ridge National Laboratory and the National Cancer Institute (NCI). Standardizes anticancer regimens, RxNorm ingredient mappings, and clinical trial intervention terminology across 11 production CSV tables.
 
-  Reproducible multisource database harmonizing oncology drugs, drug synonyms, regimens, regimen synonyms, condition-regimen associations, and clinical-trial intervention names (CC BY-NC-SA 4.0 for data, MIT for code). From Oak Ridge National Laboratory and National Cancer Institute. Includes **11 production CSV tables**, implementation code, source manifests, RxNorm mapping audits, and QA reports. Incorporates HemOncKB release (largest freely available wiki of anticancer regimens) and DrugBank Vocabulary Open Data. **The most comprehensive open oncology terminology database available** for building regimen systems .
-
-
-
-- **[dicompyler](https://github.com/dicompyler/dicompyler)**  
-
-  Extensible radiation therapy research platform and viewer for DICOM and DICOM RT (BSD license). Features import of CT/PET/MRI images, RT structure sets, RT dose and RT plan files. Plugin architecture with 2D image viewer, DVH viewer, DICOM tree viewer, and patient anonymizer. **The most widely used open-source DICOM-RT visualization platform** for radiation oncology research .
-
-
-
-- **[matRad](https://github.com/e0404/matRad)**  
-
-  Open-source radiation treatment planning system in MATLAB (license varies). Features Monte Carlo dose calculation, robust/4D optimization, biological modeling, DICOM import/export, and experimental brachytherapy module. Funded by German Research Foundation, German Cancer Aid, and German Federal Ministry of Education and Research. **The most comprehensive open-source treatment planning research platform** .
-
-
-
-- **[OpenTPS](https://www.opentps.org/)**  
-
-  Open-source treatment planning system for research and innovation (license varies). Features Monte Carlo dose calculation (MCsquare), plan optimization with multiple solvers (LBFGS, FISTA, linear programming), DVH evaluation, and robustness assessment. Initially built for proton therapy research with IMPT delivery, expanding to IMRT/VMAT. **The most modern open-source treatment planning platform** for research .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[CanReg5](https://www.iarc.who.int/)**: Open-source cancer registry software from IARC for data entry, quality control, consistency checks, and analysis. **The standard open-source platform for population-based cancer registries** in many countries. IARC and HISP Centre collaborating to integrate CanReg5 with DHIS2 for national health information systems .
-
-- **[DHIS2 Cancer Module](https://dhis2.org/)**: Free open-source platform for cancer data collection, validation, and analysis. Deployed in Jamaica for national cancer registry, replacing paper-based reporting. Aligned with IARC CanReg5 requirements for interoperability .
-
-- **[OpenClinica](https://www.openclinica.com/)**: Open-source clinical data management platform (free tier available) suitable for oncology clinical trials and research data collection .
-
-- Community **n8n** workflows for regimen data synchronization and clinical alert routing.
-
-
-
-**Frameworks for building custom systems**: Combine **ChemoThon 3.0** for chemotherapy prescribing and dose calculation with **Caisis** for oncology data management, **Unified Oncology Treatment Database** for regimen terminology, **QATrack+** for quality assurance, and **PostgreSQL** for persistence—creating a fully self-hosted, enterprise-grade digital chemotherapy platform.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Digital chemotherapy systems handling patient data and medication orders must comply with HIPAA, GDPR, and clinical safety regulations. All prescribing decisions require qualified oncologist oversight.
-
-- **Open-source digital chemotherapy is emerging, not mature.** ChemoThon 3.0 provides AI-assisted prescribing for 67 regimens with localized adaptation potential . Caisis provides comprehensive oncology data management but is not a prescribing system . OpenMRS chemotherapy module is work-in-progress for low-resource settings . **No open-source platform provides the end-to-end clinical chemotherapy system of Varian ARIA or Elekta MOSAIQ.** Integration work is required.
-
-- **AI-assisted prescribing requires clinician validation.** ChemoThon 3.0 was developed with ChatGPT assistance but emphasizes "clinician-led digital tool development" . All AI-generated dose calculations must be verified by qualified oncology professionals before clinical use.
-
-- **Open-source oncology data management is mature.** Caisis has been used since 2002 at institutions worldwide . QATrack+ is actively maintained with community support and funding from Canadian Nuclear Safety Commission . These are production-grade platforms.
-
-- Self-hosted open-source solutions require proper security hardening, clinical validation, and ongoing maintenance. Chemotherapy data is safety-critical—access controls, audit trails, and integration with pharmacy systems are essential.
-
-
+20. **[CanReg5 & DHIS2 Cancer Interop](https://www.iarc.who.int/)** [![Status](https://img.shields.io/badge/WHO%2FIARC-CanReg5-green?style=social&color=white)](https://www.iarc.who.int/)  
+    World Health Organization (WHO) / International Agency for Research on Cancer (IARC) open toolset for population-based cancer registry data collection, quality control, and national cancer surveillance systems.
 
 ---
 
+## 🏗️ Architectural Frameworks for Custom Platforms
 
+Oncology engineering teams can combine best-of-breed open-source modules to engineer complete, vendor-independent digital chemotherapy architectures:
 
-**Made for oncologists, clinical informaticists, oncology pharmacists, and developers building transparent digital chemotherapy solutions.**  
+```mermaid
+flowchart LR
+    A["Prescription & Dose Calculation<br/>(ChemoThon / COMS)"] --> B["Harmonized Regimen Knowledge<br/>(Unified Oncology DB / HemOnc)"]
+    B --> C["Clinical EHR & Orders<br/>(OpenMRS Oncology / Caisis)"]
+    C --> D["Imaging & Treatment QA<br/>(OHIF Viewer / QATrack+)"]
+    D --> E["Data Warehouse & Real World Evidence<br/>(OHDSI OMOP CDM / cBioPortal)"]
+```
 
-Let's make Digital Chemotherapy more open, data-driven, and safe.
+---
+
+## 🤝 How to Contribute
+
+Contributions from medical oncologists, clinical informaticists, pharmacists, and health-tech developers are warmly welcomed!
+
+1. 🍴 **Fork the repository**
+2. 🌿 **Create a new branch**: `git checkout -b feature/add-oncology-tool`
+3. 📝 **Add entries following the established format**:
+   - Platform / Repository name with official URL
+   - GitHub stars social badge linking directly to stargazers
+   - 1–2 factual sentences describing clinical utility, license, and regimen handling
+4. 🚀 **Submit a Pull Request** with clear release context
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this curated digital oncology directory valuable for your clinical practice, research, or development:
+
+- ⭐ **Star this repository** to improve visibility for clinicians and developers worldwide
+- 🍴 **Fork and share** with colleagues in oncology informatics and medical physics
+- ☕ **Support the maintainer**: Buy a coffee or become a sponsor via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)
+
+<div align="center">
+
+<a href="https://github.com/sponsors/ishandutta2007">
+  <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?style=for-the-badge&logo=githubsponsors" alt="Sponsor on GitHub" />
+</a>
+
+</div>
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Digital-Chemotherapy&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Digital-Chemotherapy&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer & Clinical Safety
+
+- 🩺 **Community Curated**: This compilation is for informational, academic, and research purposes only. Inclusion does not constitute clinical certification or official medical endorsement.
+- ⚖️ **Regulatory Compliance**: All digital chemotherapy systems processing Protected Health Information (PHI) or generating medication orders must adhere to rigorous medical device regulations (e.g., FDA 21 CFR Part 11 / SaMD, EU MDR 2017/745, HIPAA, GDPR).
+- 🧑‍⚕️ **Mandatory Oncologist Oversight**: Every chemotherapy prescription, BSA dose calculation, Calvert formula output, and regimen alteration must be independently validated by a licensed oncologist and verified by an oncology clinical pharmacist prior to patient administration.
+
+---
+
+<div align="center">
+  <b>Built for oncologists, medical physicists, clinical informaticists, and health-tech pioneers advancing safe, accessible cancer care.</b>
+</div>
